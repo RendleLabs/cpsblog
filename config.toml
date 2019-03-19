@@ -1,0 +1,37 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Club Penguin Sea"
+theme = "papercss-hugo-theme"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  homeMetaContent = "Ben and his Dad making a tribute to Club Penguin with Unity."
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+  [[menu.nav]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 4
