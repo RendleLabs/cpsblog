@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Club Penguin Sea</title>
+    <link>https://clubpenguinsea.com/</link>
+    <description>Recent content on Club Penguin Sea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://clubpenguinsea.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://clubpenguinsea.com/about/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clubpenguinsea.com/about/</guid>
+      <description>We&amp;rsquo;re making our own tribute to Disney&amp;rsquo;s Club Penguin Island. It&amp;rsquo;s just for fun and to learn about making games and coding. We&amp;rsquo;re using the Unity engine and hand-drawn art.
+We are:
+Ben, seven years old: Producer, Director, Lead Artist. Mark, many years old: Lead Coder and Breaker of Builds.
+We&amp;rsquo;ll be using this blog to share updates and things we learn as we work on our project.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://clubpenguinsea.com/hello-world/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clubpenguinsea.com/hello-world/</guid>
+      <description>Hello! Just getting the blog up and running.</description>
+    </item>
+    
+  </channel>
+</rss>

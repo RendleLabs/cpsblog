@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Club Penguin Sea</title>
+    <link>https://clubpenguinsea.com/post/</link>
+    <description>Recent content in Posts on Club Penguin Sea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://clubpenguinsea.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://clubpenguinsea.com/hello-world/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clubpenguinsea.com/hello-world/</guid>
+      <description>Hello! Just getting the blog up and running.</description>
+    </item>
+    
+  </channel>
+</rss>
